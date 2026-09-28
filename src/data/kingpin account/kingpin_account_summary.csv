@@ -1,0 +1,2 @@
+kingpin_id,name,bank_account,bank_name,total_inflow_txns,total_amount_received,first_credit_at,last_credit_at,total_victims,total_l1_mules,total_l2_mules,total_pre_kp_accounts,fraud_pattern,operation_duration_minutes
+KINGPIN-001,Santosh Mandal,9.999E+12,HDFC Bank,125,420500,10-04-2023 10:26,10-04-2023 10:38,5,5,25,125,SIM_SWAP_UPI_LAYERED_MULE,12.12

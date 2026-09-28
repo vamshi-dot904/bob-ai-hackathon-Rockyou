@@ -1,0 +1,2 @@
+case_id,name,state,city,phone,imei,imei1,imei2,bank_name,account,bank_account,amount,incident_dt,incident_date,incident_time,transaction_ref,payment_channel,num_transactions,new_beneficiary,recipient_ref,suspicious_message,message_type,suspicious_call
+JMT-2023-3210,Ramesh Kumar,Bihar,Patna,9876543210,354678901234567,354678901234567,,Axis Bank,9140056789123,9140056789123,85000.0,2023-04-10,2023-04-10,10:23:00,,UPI,1,Yes,,False,,False

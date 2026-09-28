@@ -1,0 +1,2 @@
+kingpin_id,name,alias,phone,upi_id,bank_name,bank_account,ifsc,city,state,role,total_accounts_controlled,total_l1_mules,total_l2_mules,total_victims
+KINGPIN-001,Santosh Mandal,Sanu Bhai,9700000001,santosh.main@ybl,HDFC Bank,9999000000001,HDFC0003421,Jamtara,Jharkhand,KINGPIN,125,5,25,5

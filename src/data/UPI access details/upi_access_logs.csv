@@ -1,0 +1,6 @@
+access_id,victim_name,phone_number,upi_id,bank_name,bank_account,access_time,access_city,access_state,access_ip,device_imei,access_type,otp_delivered_to,login_success,seconds_after_swap
+UPI-ACC-001,Ramesh Kumar,9876543210,ramesh.kumar@axisbank,Axis Bank,9140056789123,2023-04-10 10:23:14,Jamtara,Jharkhand,103.55.214.78,990012345678901,OTP_LOGIN,9876543210,True,74
+UPI-ACC-002,Sunita Devi,9123456780,sunita.devi@sbi,State Bank of India,3567891234560,2023-04-10 10:26:08,Jamtara,Jharkhand,103.55.214.79,990023456789012,OTP_LOGIN,9123456780,True,68
+UPI-ACC-003,Manoj Singh,9988776655,manoj.singh@hdfcbank,HDFC Bank,5023456789012,2023-04-10 10:29:02,Jamtara,Jharkhand,103.55.214.80,990034567890123,OTP_LOGIN,9988776655,True,62
+UPI-ACC-004,Priya Sharma,9765432109,priya.sharma@icici,ICICI Bank,6234567890123,2023-04-10 10:32:17,Jamtara,Jharkhand,103.55.214.81,990045678901234,OTP_LOGIN,9765432109,True,77
+UPI-ACC-005,Anil Yadav,9654321098,anil.yadav@pnb,Punjab National Bank,7345678901234,2023-04-10 10:35:11,Jamtara,Jharkhand,103.55.214.82,990056789012345,OTP_LOGIN,9654321098,True,71

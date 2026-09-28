@@ -1,0 +1,6 @@
+txn_id,victim_name,phone_number,upi_id,bank_account,amount_debited,currency,txn_time,txn_city,txn_state,receiver_upi,receiver_account,txn_status,seconds_after_access
+TXN-V001,Ramesh Kumar,9876543210,ramesh.kumar@axisbank,9140056789123,85000,INR,2023-04-10 10:23:51,Jamtara,Jharkhand,mule.acc1a@ybl,MULE-L1-001A,SUCCESS,37
+TXN-V002,Sunita Devi,9123456780,sunita.devi@sbi,3567891234560,120000,INR,2023-04-10 10:26:49,Jamtara,Jharkhand,mule.acc2a@ybl,MULE-L1-002A,SUCCESS,41
+TXN-V003,Manoj Singh,9988776655,manoj.singh@hdfcbank,5023456789012,67500,INR,2023-04-10 10:29:38,Jamtara,Jharkhand,mule.acc3a@ybl,MULE-L1-003A,SUCCESS,36
+TXN-V004,Priya Sharma,9765432109,priya.sharma@icici,6234567890123,95000,INR,2023-04-10 10:32:58,Jamtara,Jharkhand,mule.acc4a@ybl,MULE-L1-004A,SUCCESS,41
+TXN-V005,Anil Yadav,9654321098,anil.yadav@pnb,7345678901234,53000,INR,2023-04-10 10:35:50,Jamtara,Jharkhand,mule.acc5a@ybl,MULE-L1-005A,SUCCESS,39

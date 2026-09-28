@@ -1,0 +1,2 @@
+case_id,name,state,city,phone,imei,imei1,imei2,bank_name,account,bank_account,amount,incident_dt,incident_date,incident_time,transaction_ref,payment_channel,num_transactions,new_beneficiary,recipient_ref,suspicious_message,message_type,suspicious_call
+JMT-2023-6780,Sunita Devi,Jharkhand,Ranchi,9123456780,357891234567890,357891234567890,,State Bank of India,3567891234560,3567891234560,120000.0,2023-04-10,2023-04-10,10:26:00,,UPI,1,Yes,,False,,False

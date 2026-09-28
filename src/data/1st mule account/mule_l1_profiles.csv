@@ -1,0 +1,6 @@
+mule_id,holder_name,phone_number,upi_id,bank_name,bank_account,city,state,role,recruited_by,amount_received,received_from,received_at
+MULE-L1-001A,Deepak Mandal,8812345678,mule.acc1a@ybl,Paytm Payments Bank,2001123456789,Jamtara,Jharkhand,L1_MULE,KINGPIN-001,85000,Ramesh Kumar,2023-04-10 10:23:51
+MULE-L1-002A,Sonu Yadav,8823456789,mule.acc2a@ybl,Airtel Payments Bank,2002234567890,Jamtara,Jharkhand,L1_MULE,KINGPIN-001,120000,Sunita Devi,2023-04-10 10:26:49
+MULE-L1-003A,Raju Paswan,8834567890,mule.acc3a@ybl,India Post Payments Bank,2003345678901,Jamtara,Jharkhand,L1_MULE,KINGPIN-001,67500,Manoj Singh,2023-04-10 10:29:38
+MULE-L1-004A,Bikram Tudu,8845678901,mule.acc4a@ybl,Paytm Payments Bank,2004456789012,Jamtara,Jharkhand,L1_MULE,KINGPIN-001,95000,Priya Sharma,2023-04-10 10:32:58
+MULE-L1-005A,Chandan Mahto,8856789012,mule.acc5a@ybl,Airtel Payments Bank,2005567890123,Jamtara,Jharkhand,L1_MULE,KINGPIN-001,53000,Anil Yadav,2023-04-10 10:35:50

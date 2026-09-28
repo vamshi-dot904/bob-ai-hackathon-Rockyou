@@ -1,0 +1,26 @@
+mule_id,holder_name,phone,upi_id,bank,bank_account,city,state,received_from_mule,amount_received,received_at
+MULE-L2-001B,Nitu Kumari,8901234561,nitu.k001@paytm,Paytm Payments Bank,3001001234561,Giridih,Jharkhand,MULE-L1-001A,18000,2023-04-10 10:24:48
+MULE-L2-001C,Pintu Shah,8901234562,pintu.s001@ybl,PhonePe Payments Bank,3001001234562,Deoghar,Jharkhand,MULE-L1-001A,15500,2023-04-10 10:24:49
+MULE-L2-001D,Govind Das,8901234563,govind.d001@oksbi,Airtel Payments Bank,3001001234563,Dumka,Jharkhand,MULE-L1-001A,20000,2023-04-10 10:24:50
+MULE-L2-001E,Laxmi Devi,8901234564,laxmi.d001@ybl,India Post Payments Bank,3001001234564,Bokaro,Jharkhand,MULE-L1-001A,16500,2023-04-10 10:24:51
+MULE-L2-001F,Mukesh Rajak,8901234565,mukesh.r001@okaxis,Paytm Payments Bank,3001001234565,Dhanbad,Jharkhand,MULE-L1-001A,15000,2023-04-10 10:24:52
+MULE-L2-002B,Kavita Singh,8902345671,kavita.s002@paytm,Paytm Payments Bank,3002002345671,Giridih,Jharkhand,MULE-L1-002A,25000,2023-04-10 10:27:43
+MULE-L2-002C,Rahul Tanti,8902345672,rahul.t002@ybl,Airtel Payments Bank,3002002345672,Deoghar,Jharkhand,MULE-L1-002A,22000,2023-04-10 10:27:44
+MULE-L2-002D,Bablu Gupta,8902345673,bablu.g002@oksbi,PhonePe Payments Bank,3002002345673,Dumka,Jharkhand,MULE-L1-002A,28000,2023-04-10 10:27:45
+MULE-L2-002E,Sarita Devi,8902345674,sarita.d002@ybl,India Post Payments Bank,3002002345674,Bokaro,Jharkhand,MULE-L1-002A,23000,2023-04-10 10:27:46
+MULE-L2-002F,Dilip Kumar,8902345675,dilip.k002@okaxis,Paytm Payments Bank,3002002345675,Dhanbad,Jharkhand,MULE-L1-002A,22000,2023-04-10 10:27:47
+MULE-L2-003B,Meena Turi,8903456781,meena.t003@paytm,Paytm Payments Bank,3003003456781,Giridih,Jharkhand,MULE-L1-003A,14000,2023-04-10 10:30:32
+MULE-L2-003C,Suresh Mahto,8903456782,suresh.m003@ybl,Airtel Payments Bank,3003003456782,Deoghar,Jharkhand,MULE-L1-003A,12500,2023-04-10 10:30:33
+MULE-L2-003D,Anita Oraon,8903456783,anita.o003@oksbi,PhonePe Payments Bank,3003003456783,Dumka,Jharkhand,MULE-L1-003A,15000,2023-04-10 10:30:34
+MULE-L2-003E,Ramdev Soren,8903456784,ramdev.s003@ybl,India Post Payments Bank,3003003456784,Bokaro,Jharkhand,MULE-L1-003A,13000,2023-04-10 10:30:35
+MULE-L2-003F,Puja Mandal,8903456785,puja.m003@okaxis,Paytm Payments Bank,3003003456785,Dhanbad,Jharkhand,MULE-L1-003A,13000,2023-04-10 10:30:36
+MULE-L2-004B,Shyam Babu,8904567891,shyam.b004@paytm,Paytm Payments Bank,3004004567891,Giridih,Jharkhand,MULE-L1-004A,20000,2023-04-10 10:33:51
+MULE-L2-004C,Jyoti Besra,8904567892,jyoti.b004@ybl,Airtel Payments Bank,3004004567892,Deoghar,Jharkhand,MULE-L1-004A,18000,2023-04-10 10:33:52
+MULE-L2-004D,Nandu Hembram,8904567893,nandu.h004@oksbi,PhonePe Payments Bank,3004004567893,Dumka,Jharkhand,MULE-L1-004A,22000,2023-04-10 10:33:53
+MULE-L2-004E,Seema Rajwar,8904567894,seema.r004@ybl,India Post Payments Bank,3004004567894,Bokaro,Jharkhand,MULE-L1-004A,17500,2023-04-10 10:33:54
+MULE-L2-004F,Kiran Devi,8904567895,kiran.d004@okaxis,Paytm Payments Bank,3004004567895,Dhanbad,Jharkhand,MULE-L1-004A,17500,2023-04-10 10:33:55
+MULE-L2-005B,Ravi Mochi,8905678901,ravi.m005@paytm,Paytm Payments Bank,3005005678901,Giridih,Jharkhand,MULE-L1-005A,11000,2023-04-10 10:36:43
+MULE-L2-005C,Sunita Lohra,8905678902,sunita.l005@ybl,Airtel Payments Bank,3005005678902,Deoghar,Jharkhand,MULE-L1-005A,10000,2023-04-10 10:36:44
+MULE-L2-005D,Mohan Ghosh,8905678903,mohan.g005@oksbi,PhonePe Payments Bank,3005005678903,Dumka,Jharkhand,MULE-L1-005A,12000,2023-04-10 10:36:45
+MULE-L2-005E,Kamla Devi,8905678904,kamla.d005@ybl,India Post Payments Bank,3005005678904,Bokaro,Jharkhand,MULE-L1-005A,10000,2023-04-10 10:36:46
+MULE-L2-005F,Durgesh Nayak,8905678905,durgesh.n005@okaxis,Paytm Payments Bank,3005005678905,Dhanbad,Jharkhand,MULE-L1-005A,10000,2023-04-10 10:36:47

@@ -1,0 +1,65 @@
+submission:
+  project_name: "Cyber Fraud Investigation Tool — Jamtara SIM-Swap Ring"
+  tagline: "From victim complaint to FIR-ready case brief in seconds"
+  track: "Cyber Forensics"                 # e.g. IBM TechXchange Hackathon 2025
+  category: "Cyber Fraud Network Analyzer"              # e.g. AI for Social Good / Cybersecurity
+  team_name: "RockYou"
+
+team:
+  - name: "Kumar Ganesh"
+    role: "Leader"
+    email: "ganeshrajgaria00@gmail.com"
+  - name: "Kanike Vamshi Chandra"
+    role: "Member"
+    email: "vamshikanike89@gmail.com"
+
+
+ibm_technologies_used:
+  - "IBM Bob (AI assistant for code generation and investigation logic)"
+
+other_technologies:
+  - "Python 3.11"
+  - "Streamlit 1.64"
+  - "pyvis (network graph visualisation)"
+  - "pandas"
+  - "NetworkX"
+
+problem_statement: "docs/problem-statement.md"
+solution_overview:  "docs/solution-overview.md"
+architecture:       "docs/architecture.md"
+setup_guide:        "docs/setup-guide.md"
+
+demo:
+  video_link:       "demo/demo-video-link.txt"
+  screenshots_dir:  "demo/screenshots/"
+
+source_code:        "src/"
+presentation:       "presentation/"
+
+how_to_run:
+  steps:
+    - "cd src"
+    - "pip install streamlit pandas pyvis networkx"
+    - "streamlit run app.py"
+  note: "Click any of the 5 demo victim buttons on the landing page to auto-fill the form and run a full investigation."
+
+key_features:
+  - "SIM-swap detection via IMEI mismatch across telecom device records"
+  - "Automated 9-step correlation engine linking victim → mule chain → kingpin"
+  - "Interactive pyvis network graph showing full money flow"
+  - "3-layer mule hierarchy visualisation (Kingpin → L2 → L1 → Victim)"
+  - "Colour-coded evidence tables with badge classification"
+  - "Chronological evidence timeline from SIM swap to kingpin consolidation"
+  - "FIR-ready case brief with IPC section recommendations"
+  - "Risk scoring 0–100 with pattern classification"
+
+mock_data_scope:
+  victims: 5
+  l1_mules: 5
+  l2_mules: 25
+  pre_kingpin_accounts: 125
+  total_transactions_tracked: 160
+  total_fraud_amount_inr: 420500
+  operation_duration_minutes: 12.12
+
+real_world_basis: "Jamtara SIM-Swap Ring, Jharkhand — 95,000+ UPI fraud cases FY2023"
